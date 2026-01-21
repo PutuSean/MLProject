@@ -1,0 +1,8 @@
+## SetUp Library
+setuptools
+
+pandas
+numpy
+seaborn
+
+-e .
